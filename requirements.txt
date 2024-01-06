@@ -1,0 +1,6 @@
+streamlit
+streamlit-chat
+streamlit-extras
+psycopg2-binary
+openai==0.27.8
+langchain==0.0.225
